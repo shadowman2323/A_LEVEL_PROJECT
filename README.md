@@ -1,5 +1,5 @@
-A_LEVEL_PROJECT
+**A_LEVEL_PROJECT**
 ===============
-#Outline of problem
+#*Outline of problem*
 
 The problem is that My Grandad's business, Select Snacks, has a lot of employess with a lot of data being handled each day. This has become a problm as the business expands and more data needs to be processed and the current system is all paper based.Thus I propose a system that will replace it and allow all the data to be entered digitally and thus more securely. It should also replace the current system of phoning up for a buffet, as this system is only available for a limited period of time the system should allow users to order at all times, and allow the user to see the options available and customise the buffet to their liking. Also their current site doesn't allow the user to access the information about their brick and mortar shop easily, or in enough detail, thus a section of the site should be devoted to this shop.
